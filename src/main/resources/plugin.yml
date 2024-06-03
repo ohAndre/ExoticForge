@@ -1,0 +1,7 @@
+name: ExoticForge
+version: '${project.version}'
+main: me.ohandre.exoticforge.ExoticForge
+api-version: '1.17'
+commands:
+  forge:
+    description: Give di martello
